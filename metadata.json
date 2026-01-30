@@ -1,0 +1,9 @@
+
+{
+  "name": "A-Scope",
+  "description": "The professional algorithmic analysis and debugging studio for deep reasoning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
